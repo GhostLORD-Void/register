@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "ghostlord": {
+      "repo": "https://github.com/GhostLORD-Void/nova-agent",
+      "target": "nova-agent-etzq.onrender.com"
     }
   },
   "openrepos.sh": {},
