@@ -11,5 +11,7 @@
     "*.gitbook.com",
     "*.alwaysdata.net"
   ],
-  "custom": []
+  "custom": [
+    "nova-agent-etzq.onrender.com"
+  ]
 }
